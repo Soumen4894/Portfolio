@@ -164,7 +164,7 @@ const Navbar = () => {
                                 <div className='container'>
                                     <h2 style={{ color: "#B26666", fontWeight: "bold" }}>RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE</h2>
                                     <h4 style={{ fontWeight: "bold" }}>B.Tech in Electronics & Communication Engineering(ECE)</h4>
-                                    <h4 style={{ fontWeight: "bold" }}>CGPA : 8.67(upto 6th)</h4>
+                                    <h4 style={{ fontWeight: "bold" }}>CGPA : 8.28 DGPA</h4>
                                     <h4 style={{ fontWeight: "bold" }}>August,2020 - July,2024</h4>
                                 </div>
                             </div>
